@@ -416,7 +416,7 @@ function showGameScoreLayer() {
     score_text += '<br>您平均每秒点击了 ';
     score_text += "<span style='color:red;'>" + (_gameScore * 1000 / deviation_time).toFixed(2);
     score_text += "</span>" + ' 次哦！';
-    score_text += "<br>相当于 <span style='color:red;'>" + (_gameScore * 15000 / deviation_time).toFixed(2) + "</span> BPM 下的十六分音符哦！"
+    score_text += "<br>相当于 <span style='color:red;'>" + (_gameScore * 15000 / deviation_time).toFixed(2) + "</span> BPM 下的十六分音符哦！(坤坤弄得)"
     document.getElementById('GameScoreLayer-score').innerHTML = score_text;
     let bast = cookie('bast-score');
     if (!bast || _gameScore > bast) {
@@ -450,11 +450,11 @@ function backBtn() {
 function shareText(score) {
 
     deviation_time = (date2.getTime() - _date1.getTime())
-    if (score <= 2.5 * __Time) return '加油！我相信您可以的！';
-    if (score <= 5 * __Time) return '^_^ 加把劲，底力大王就是您！';
-    if (score <= 7.5 * __Time) return '您！';
-    if (score <= 10 * __Time) return '太 您 了！';
-    return '您是外星人嘛？';
+    if (score <= 2.5 * __Time) return '试着好好练个两年半?';
+    if (score <= 5 * __Time) return '还没到KUN的程度那!';
+    if (score <= 7.5 * __Time) return '马上就要超过KUN的程度那!';
+    if (score <= 10 * __Time) return '你应该已经练了2.5年了吧!';
+    return '坤坤:又有一位IKUN加入我们的荔枝集团了!';
 }
 
 function toStr(obj) {
