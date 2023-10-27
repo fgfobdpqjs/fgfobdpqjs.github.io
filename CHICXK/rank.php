@@ -48,7 +48,7 @@ if ($RankingType == 'all') {
 
 <head>
   <title><?php echo $i18n['rank-title']; ?></title>
-  <meta item="description" content="EatKano" />
+  <meta item="description" content="EatKun" />
   <meta charset="utf-8" />
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
   <link href="./files/css/bootstrap.min.css" rel="stylesheet">
