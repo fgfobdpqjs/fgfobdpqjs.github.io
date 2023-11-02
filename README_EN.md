@@ -5,7 +5,7 @@
 
 # My Page
 
-_🦌  a web page 🥛 _
+_🦌  a web page 🥛_
 
 </div>
 
