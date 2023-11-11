@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title> 菜先生超帅 </title>
+    <script type="text/javascript" src="phaser.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+
+    <script>
+        var bgmusic = document.getElementById('bgmusic');
+        bgmusic.addEventListener('canplay', function () {
+            this.play();
+        }, false);
+        window.addEventListener('load', function () {
+            window.addEventListener('touchstart', once, false);
+        }, false);
+        function once() {
+            bgmusic.play();
+            window.removeEventListener('touchstart', once, false);
+        }
+
+    </script>
+<style>
+    canvas{
+        width: 100%;
+    }
+</style>
+</head>
+
+<body>
+    <h1>按空格键或者点击屏幕使菜先生移动</h1>
+    <!-- <audio src="becasue you.m4a" controls="" class="music" id="audio" style="width: 40%;margin-left: 30%"></audio> -->
+    <audio src="./becasue you.m4a" preload="meta" loop autoplay id="bgmusic"></audio>
+</body>
+
+</html>
