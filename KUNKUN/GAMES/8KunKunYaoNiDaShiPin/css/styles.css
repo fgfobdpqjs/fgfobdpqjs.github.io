@@ -1,0 +1,19 @@
+body
+{
+  font-size: 20pt;
+  background-color:#aaaaaa
+}
+div.logo{
+  
+  margin-top:3cm;
+}
+input#flase{
+  margin-top:10cm;
+  margin-left:3cm;
+}
+input#true{
+  float: right;
+  margin-top:10.2cm;
+  margin-right:3cm;
+}
+
