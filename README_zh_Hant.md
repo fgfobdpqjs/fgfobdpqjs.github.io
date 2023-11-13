@@ -18,17 +18,17 @@ _🦌 一個網頁 🥛_
 |
 [简体中文](README_zh_Hans.md)
 |
-[Kun抖音中國1](https://www.douyin.com/user/MS4wLjABAAAACKPckCBA9Xnxy2YCRQY2m0xDegN-kmkzht0ohyyk5ts)
+[Kun](https://www.douyin.com/user/MS4wLjABAAAACKPckCBA9Xnxy2YCRQY2m0xDegN-kmkzht0ohyyk5ts)[抖音中國](https://www.douyin.com/user/MS4wLjABAAAACKPckCBA9Xnxy2YCRQY2m0xDegN-kmkzht0ohyyk5ts)[1](https://www.douyin.com/user/MS4wLjABAAAACKPckCBA9Xnxy2YCRQY2m0xDegN-kmkzht0ohyyk5ts)
 |
-[Kun抖音中國2](https://www.douyin.com/user/MS4wLjABAAAAryQaEzPsiKTuTzYs6UDjQ5yNkltUdJU5fSEr_MJtlMm8hP4fCdBoBO4zAbyHMx3p)
+[Kun](https://www.douyin.com/user/MS4wLjABAAAAryQaEzPsiKTuTzYs6UDjQ5yNkltUdJU5fSEr_MJtlMm8hP4fCdBoBO4zAbyHMx3p)[抖音中國](https://www.douyin.com/user/MS4wLjABAAAAryQaEzPsiKTuTzYs6UDjQ5yNkltUdJU5fSEr_MJtlMm8hP4fCdBoBO4zAbyHMx3p)[2](https://www.douyin.com/user/MS4wLjABAAAAryQaEzPsiKTuTzYs6UDjQ5yNkltUdJU5fSEr_MJtlMm8hP4fCdBoBO4zAbyHMx3p)
 |
-[Kun西瓜視頻](https://www.ixigua.com/home/1456218970008591/?list_entrance=search)
+[Kun](https://www.ixigua.com/home/1456218970008591/?list_entrance=search)[西瓜視頻](https://www.ixigua.com/home/1456218970008591/?list_entrance=search)
 |
-[Kun快手中國](https://www.kuaishou.com/profile/3xk34uvfv6fkcj6)
+[Kun](https://www.kuaishou.com/profile/3xk34uvfv6fkcj6)[快手中國](https://www.kuaishou.com/profile/3xk34uvfv6fkcj6)
 |
 [KunGitHub](https://github.com/fgfobdpqjs)
 |
-[KunGitHub中國](https://hub.yzuu.cf/fgfobdpqjs/)
+[KunGitHub](https://hub.yzuu.cf/fgfobdpqjs/)[中國](https://hub.yzuu.cf/fgfobdpqjs/)
 |
 [Github Pages](https://fgfobdpqjs.github.io/index.html)
 
