@@ -1,0 +1,7 @@
+html {
+  font-family: sans-serif;
+}
+canvas {
+  background: #fff;
+  border: 1px dashed;
+}
