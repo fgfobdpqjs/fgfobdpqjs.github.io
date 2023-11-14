@@ -30,6 +30,8 @@ _🦌 一個網頁 🥛_
 |
 [KunGitHub](https://hub.yzuu.cf/fgfobdpqjs/)[中國](https://hub.yzuu.cf/fgfobdpqjs/)
 |
+[KunGitLab](https://gitlab.com/fgfobdpqjs1)
+|
 [Github Pages](https://fgfobdpqjs.github.io/index.html)
 
 ## 其它事項

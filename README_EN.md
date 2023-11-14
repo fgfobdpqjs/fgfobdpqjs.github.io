@@ -30,6 +30,8 @@ The code is so simple that I don't know what to say
 |
 [Kun's GitHub China](https://hub.yzuu.cf/fgfobdpqjs/)
 |
+[Kun's GitLab](https://gitlab.com/fgfobdpqjs1)
+|
 [Github Pages](https://fgfobdpqjs.github.io/index.html)
 
 ## Other matters
