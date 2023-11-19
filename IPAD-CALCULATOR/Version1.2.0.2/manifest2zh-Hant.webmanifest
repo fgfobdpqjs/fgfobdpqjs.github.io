@@ -1,6 +1,6 @@
 {
-    "name": "iPad Calculator",
-    "short_name": "Calculator",
+    "name": "iPad 計算機",
+    "short_name": "計算機",
     "icons": [
       {
         "src": "icon.png",
@@ -15,14 +15,14 @@
     ],
     "background_color": "black",
     "theme_color": "black",
-    "categories": ["utilites", "productivity", "calculator"],
+    "categories": ["功利", "生產力", "計算機"],
     "screenshots" : [
         {
             "src": "calculator-image.jpeg",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
-            "label": "Calculator for iPad (using Stage Manager mode)"
+            "label": "適用於 iPad 的計算機 (使用台前調度模式)"
         }
     ],
     "display": "standalone",
