@@ -18,9 +18,9 @@
     "categories": ["功利", "生产力", "计算器"],
     "screenshots" : [
         {
-            "src": "calculator-image.png",
+            "src": "calculator-image.jpeg",
             "sizes": "1280x889",
-            "type": "image/png",
+            "type": "image/jpeg",
             "platform": "wide",
             "label": "适用于 iPad 的计算器 (使用台前调度模式)"
         }
