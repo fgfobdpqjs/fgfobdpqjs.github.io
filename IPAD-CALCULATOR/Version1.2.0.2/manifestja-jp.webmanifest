@@ -15,14 +15,14 @@
     ],
     "background_color": "black",
     "theme_color": "black",
-    "categories": ["utilites", "生産性", "電卓"],
+    "categories": ["utilites", "生産性", "計算機"],
     "screenshots" : [
         {
             "src": "calculator-image.jpeg",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
-            "label": "iPad用電卓 (ステージ・マネージャー・モードの使用)"
+            "label": "iPad用計算機 (ステージ・マネージャー・モードの使用)"
         }
     ],
     "display": "standalone",
