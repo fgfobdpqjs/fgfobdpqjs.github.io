@@ -2,15 +2,17 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
 
 (function(w) {
     function getJsonI18N() {
-        // https://developer.mozilla.org/zh-CN/docs/Web/API/Navigator/language
+        // https://developer.mozilla.org/docs/Web/API/Navigator/language
         
         const LANGUAGES = [
             { regex: /^zh-CN\b/, lang: 'zh' },
             { regex: /^zh-TW\b/, lang: 'zht' },
             { regex: /^zh-HK\b/, lang: 'zht' },
+            { regex: /^zh-MO\b/, lang: 'zht' },
             { regex: /^zh-cn\b/, lang: 'zh' },
             { regex: /^zh-tw\b/, lang: 'zht' },
             { regex: /^zh-hk\b/, lang: 'zht' },
+            { regex: /^zh-mo\b/, lang: 'zht' },
             { regex: /^ja\b/, lang: 'ja' },
             { regex: /.*/, lang: 'en'}
         ]
@@ -287,8 +289,8 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             let httpRequest = new XMLHttpRequest();
             httpRequest.open('POST', './SubmitResults.php', true);
             httpRequest.setRequestHeader("Content-type", "application/json");
-            let name = $("#username").val();
-            let message = $("#message").val();
+            let name = $("#username0").val();
+            let message = $("#message0").val();
             let test = "|_|";
             httpRequest.send(encrypt(_gameScore + test + name + test + tj + test + message));
         }
