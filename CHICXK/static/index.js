@@ -522,8 +522,8 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
     document.write(createGameLayer());
 
     function initSetting() {
-        $("#username").val(cookie("username") ? cookie("username") : "");
-        $("#message").val(cookie("message") ? cookie("message") : "");
+        $("#username0").val(cookie("username0") ? cookie("username0") : "");
+        $("#message0").val(cookie("message0") ? cookie("message0") : "");
         if (cookie("title")) {
             $('title').text(cookie('title'));
             $('#title').val(cookie('title'));
