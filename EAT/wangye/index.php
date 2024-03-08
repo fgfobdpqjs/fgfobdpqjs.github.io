@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <title data-i18n="eat-wangye"></title>
-    <meta itemprop="name" content="吃掉蔡徐坤" />
-    <meta itemprop="description" content="新概念音游" />
+    <title data-i18n="eat-wangye">EAT-WANGYE-I18N</title>
+    <meta itemprop="name" content="服侍我们的王爷吧" />
+    <meta itemprop="description" content="大清新概念游戏" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
@@ -41,7 +41,7 @@
                 <button type="button" class="btn btn-secondary btn-lg" id="replay" onclick="replayBtn()" data-i18n="again">AGAIN-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.reload()" data-i18n="home">HOME-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://xingye.me/game/eatkano/rank.php'" data-i18n="rank">RANK-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/fgfobdpqjs/EatKun'" data-i18n="repog">REPOG-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/fgfobdpqjs/fgfobdpqjs.github.io/EAT/wangye'" data-i18n="repog">REPOG-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'" data-i18n="repo">REPO-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://b23.tv/2ppz1O4'" data-i18n="114514">114514-I18N</button>
             </div>
@@ -56,6 +56,11 @@
                     <div id="desc" style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
                         <span data-i18n="game-intro1">GAME-INTRO1-I18N</span><br />
                         <span data-i18n="game-intro2">GAME-INTRO2-I18N</span><br />
+                        <span data-i18n="game-intro3">GAME-INTRO3-I18N</span><br />
+                        <span data-i18n="game-intro4">GAME-INTRO4-I18N</span><br />
+                        <span data-i18n="game-intro5">GAME-INTRO5-I18N</span><br />
+                        <span data-i18n="game-intro6">GAME-INTRO6-I18N</span><br />
+                        <span data-i18n="game-intro7">GAME-INTRO7-I18N</span><br />
                     </div>
                 </div>
                 <div id="btn_group" class="container text-nowrap">
