@@ -54,7 +54,12 @@ _🦌 网页小游戏 🥛_
    {
      "game-title": "新概念音游",
      "game-intro1": "大清新概念游戏",
-     "game-intro2": "从最底下的王爷开始<br />操作你的奴才，掘倒尽可能多的王爷吧<br />[戳啦]<br />[集八毛嘛]<br />[你舒服]<br />[我受罪]",
+     "game-intro2": "从最底下的王爷开始",
+     "game-intro3": "操作你的奴才，掘倒尽可能多的王爷吧",
+     "game-intro4": "[戳啦]",
+     "game-intro5": "[集八毛嘛]",
+     "game-intro6": "[你舒服]",
+     "game-intro7": "[我受罪]",
      "text-level-1": "过于无能",
      "text-level-2": "免礼进身",
      "text-level-3": "多日不见您想小人吗",
