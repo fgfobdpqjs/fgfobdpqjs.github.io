@@ -1,0 +1,299 @@
+html.swipebox-html.swipebox-touch {
+    overflow: hidden !important
+}
+
+#mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #0d0d0d;
+    opacity: .5
+}
+
+#swipebox-overlay img {
+    border: none !important
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 100%;
+    left: 0;
+    z-index: 9 !important;
+    overflow: hidden;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: top .2s ease-in-out
+}
+
+.overlay-in {
+    top: 0
+}
+
+#swipebox-container {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+#swipebox-slider {
+    -webkit-transition: -webkit-transform .4s ease;
+    transition: transform .4s ease;
+    height: 100%;
+    position: relative;
+    display: none;
+    cursor: pointer
+}
+
+#swipebox-slider .slide {
+    text-align: center;
+    float: left
+}
+
+#swipebox-slider .slide img {
+    display: inline-block;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    vertical-align: baseline
+}
+
+#swipebox-close {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC2klEQVRYR62XTahOURSGn9dPIoWkDIgkkQxIRNdvBgxQkkhGd2ZmqsTkDmRyZya6AyIKxYjyT/5upCSUAXWTQlxJEZYW+2jffc8+53zf/fbgO3XO+fb7rHettc/eIgwzWwcsAE5J+lzc7+TVzMYCu4BBSRd8bvmPmR0EDgWxt8B6SS87LD4JuAYsCfP2SeouAL4B4yPBD0BXpyDMzMWvA4uToCYXAI8isuKdjkBUiLvTMwuAhcBtYEpC6BBrJT1rJx0V4t+BjZJu/AUIdbAoQLhd8fgErGoVokL8B7BJktfDvyKMILxA/MGIIGrEt0q6VGgOAQhOVEF4dzypSoeZTQRulRTcT2BzLD7MgcSJm4BPFo8vwJocRBC/AixP/vcL2CbpYgo/zIEIwifxyRpB1IjvlHS2zLksQEhHFcQGSf3hPYcsi9yAHTnxbAqSwsxBfPUVE3heIb5H0smqmql0IEmHd8eEZDKHeAEsTe575LXijRyIILqAyyUQZQF2S+qrijzbhjUt1gRir6SjTcRbciBxwgtuXIlIS+LtAowBrgKrE4DfYY240zT6lgHMzMXPAVsyIv5Z99XyQVOIRl0Qer1OvND0zvDV8nETiEYAZjYaOJ+JfLDk4+X33IlaiFqAIH4a2F4SUS9wGLgPzEqeO4R/xp+2vRDViUvaF9IzA/DiSyF8L+HpyEJUfYzc9mzkhXjUng5xD/BrPBxipSRfMYeNUgAzGwWcydmeikcQs8OuKoV4HyBepQRlGxIXPw7sLst5TjyBcCemJ/9/F2piCES6JRuReAQxNzhRBrFC0uvi3XhT2hHxBOIuMC1xYgBwCL/+Pxk5yIl2bc+1mZnND/vDFOJNOPgMFOeCHmB/OzmvW+0ChDuRnjkeSlqeO5r5vL11BVcnHqXDzxy+yU0hpuaOZh0TTyD89FWcOfolLSsA5gHHAM/ZEUlHmkbXyntmNgc4APji1CPp4x8u9zRKAvg1sgAAAABJRU5ErkJggg==);
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    border: none !important;
+    text-decoration: none !important;
+    cursor: pointer;
+    background-size: contain;
+    background-position: center
+}
+
+#swipebox-close {
+    top: 0;
+    right: 0;
+    position: absolute;
+    z-index: 20;
+    padding: 10px;
+    background-size: 20px 20px
+}
+
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider {
+    -webkit-animation: rightSpring .3s;
+    animation: rightSpring .3s
+}
+
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider {
+    -webkit-animation: leftSpring .3s;
+    animation: leftSpring .3s
+}
+
+.swipebox-touch #swipebox-container:before,
+.swipebox-touch #swipebox-container:after {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    content: ' ';
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    height: 100%;
+    width: 20px;
+    opacity: 0
+}
+
+.swipebox-touch #swipebox-container:before {
+    left: 0;
+    -webkit-box-shadow: inset 10px 0 10px -8px #656565;
+    box-shadow: inset 10px 0 10px -8px #656565
+}
+
+.swipebox-touch #swipebox-container:after {
+    right: 0;
+    -webkit-box-shadow: inset -10px 0 10px -8px #656565;
+    box-shadow: inset -10px 0 10px -8px #656565
+}
+
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before {
+    opacity: 1
+}
+
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after {
+    opacity: 1
+}
+
+@-webkit-keyframes rightSpring {
+    0% {
+        left: 0
+    }
+
+    50% {
+        left: -30px
+    }
+
+    100% {
+        left: 0
+    }
+}
+
+@keyframes rightSpring {
+    0% {
+        left: 0
+    }
+
+    50% {
+        left: -30px
+    }
+
+    100% {
+        left: 0
+    }
+}
+
+@-webkit-keyframes leftSpring {
+    0% {
+        left: 0
+    }
+
+    50% {
+        left: 30px
+    }
+
+    100% {
+        left: 0
+    }
+}
+
+@keyframes leftSpring {
+    0% {
+        left: 0
+    }
+
+    50% {
+        left: 30px
+    }
+
+    100% {
+        left: 0
+    }
+}
+
+@media screen and (min-width:800px) {
+    #swipebox-close {
+        right: 10px
+    }
+}
+
+#swipebox-overlay {
+    background: #333
+}
+
+/* #swipebox-download {
+ * 	color: #fff;
+ * 		position: absolute;
+ * 			bottom: 0;
+ * 				width: 100%;
+ * 					text-align: center;
+ * 						padding: 14px 0;
+ * 							font-size: 14px;
+ * 								z-index: 20;
+ * 									background-color: #222
+ * 									} */
+#bottom_box {
+    position: absolute;
+    bottom: 104px;
+    width: 100%;
+    text-align: center;
+    z-index: 20;
+}
+
+#swipebox-download {
+    line-height: 40px;
+    height: 40px;
+    background: #4D4D4D;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 2px;
+    display: inline-block;
+    width: 130px;
+    margin-right: 24px;
+}
+
+#btn_pd {
+    line-height: 40px;
+    height: 40px;
+    background: #3DDBC1;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 2px;
+    display: inline-block;
+    width: 130px;
+}
+
+
+#swipebox-tips {
+    color: #606160;
+    position: fixed;
+    bottom: 24%;
+    left: 48%;
+    width: 100px;
+    z-index: 10;
+    padding: 8px 10px;
+    margin-left: -50px
+}
+
+.toast-box {
+    position: fixed;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    border-radius: 24px;
+    padding: 10px 18px;
+    background-color: rgba(0, 0, 0, .8);
+    color: #fff;
+    font-size: 13px;
+    transform: translate(-50%, -50%);
+    transition: opacity .3s ease;
+    opacity: 0
+}
+
+.toast-show {
+    transform: translate(-50%, -50%);
+    opacity: 1
+}
+
+.lastPage img {
+    max-width: 100px
+}
+
+.lastPage p {
+    color: #ccc;
+    line-height: 25px;
+    font-size: 14px
+}
+
+#bzCont .slide img,
+#tpCont .slide img,
+#pfCont .slide img {
+    max-height: 95% !important
+}
+
+#bzCont #swipebox-download,
+#tpCont #swipebox-download,
+#pfCont #swipebox-download {
+    bottom: 5% !important
+}
+
+#bzCont #swipebox-tips,
+#tpCont #swipebox-tips,
+#pfCont #swipebox-tips {
+    bottom: 10% !important
+}
