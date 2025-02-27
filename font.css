@@ -1,0 +1,10 @@
+@font-face { 
+  font-family: 'mcfont'; 
+  src: url('Minecraft AE.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello3 {
+  font-family: 'mcfont';
+}

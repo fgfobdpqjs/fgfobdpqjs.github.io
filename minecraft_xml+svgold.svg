@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 840 211.608">
+<defs xmlns="http://www.w3.org/2000/svg">
+		<linearGradient id="a" x1="194.4349" y1="152.1473" x2="194.4349" y2="215.694" gradientTransform="matrix(1, 0, 0, -1, 0, 219.8104)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d0c4c1"/>
+			<stop offset="1" stop-color="#9d9695"/>
+		</linearGradient>
+		<linearGradient id="b" x1="251.5498" y1="152.0187" x2="251.5498" y2="215.5654" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="c" x1="299.853" y1="152.2759" x2="299.853" y2="215.8227" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="d" x1="363.9143" y1="152.2759" x2="363.9143" y2="215.8227" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="e" x1="660.4228" y1="152.3815" x2="660.4228" y2="216.1296" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="f" x1="604.4012" y1="152.4046" x2="604.4012" y2="216.0799" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="g" x1="547.0934" y1="152.2759" x2="547.0934" y2="215.9513" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="h" x1="486.7626" y1="152.3107" x2="486.7626" y2="215.986" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="i" x1="425.1455" y1="152.2759" x2="425.1455" y2="215.885" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#a"/>
+		<linearGradient id="j" x1="769.0519" y1="120.4755" x2="760.6905" y2="103.2703" gradientTransform="matrix(1, 0, 0, -1, 0, 219.8104)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#510018"/>
+			<stop offset="1" stop-color="#1f0008"/>
+		</linearGradient>
+		<linearGradient id="k" x1="798.8526" y1="106.6177" x2="782.1298" y2="65.9362" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="l" x1="820.7253" y1="79.8622" x2="803.1448" y2="48.5604" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="m" x1="794.813" y1="47.5873" x2="776.9646" y2="14.7849" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="n" x1="729.1629" y1="112.9052" x2="716.2992" y2="86.3202" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="o" x1="711.431" y1="75.7106" x2="693.4218" y2="40.5498" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="p" x1="735.5911" y1="39.424" x2="714.5805" y2="-18.0338" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="q" x1="630.6006" y1="88.8838" x2="617.3082" y2="50.2927" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="r" x1="650.1505" y1="81.7828" x2="631.7126" y2="32.0432" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="s" x1="678.3763" y1="50.2078" x2="662.0822" y2="2.1834" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="t" x1="619.1626" y1="50.5734" x2="608.014" y2="0.4049" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="u" x1="547.4885" y1="117.9456" x2="545.2373" y2="87.0727" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="v" x1="592.5598" y1="58.0822" x2="584.8416" y2="30.6396" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="w" x1="518.2568" y1="62.782" x2="518.5784" y2="-14.4002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="x" x1="556.8141" y1="39.9677" x2="550.0606" y2="-4.412" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="y" x1="476.9219" y1="113.599" x2="476.9219" y2="89.4796" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="z" x1="479.1997" y1="76.971" x2="478.235" y2="60.2482" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="aa" x1="467.5644" y1="42.9714" x2="466.5991" y2="0.5004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ab" x1="71.93" y1="118.0585" x2="80.9346" y2="96.6189" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ac" x1="42.6967" y1="100.3052" x2="50.1991" y2="82.0852" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ad" x1="25.8451" y1="70.9142" x2="33.1346" y2="49.9035" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ae" x1="46.419" y1="47.4662" x2="56.7099" y2="18.5228" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="af" x1="120.401" y1="125.3928" x2="144.1989" y2="73.2948" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ag" x1="140.3189" y1="57.5495" x2="156.2377" y2="17.0288" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ah" x1="97.0924" y1="36.5062" x2="106.5794" y2="4.1862" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ai" x1="230.7598" y1="62.66" x2="255.5224" y2="-0.0506" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="aj" x1="159.0783" y1="64.9193" x2="174.9971" y2="24.3986" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ak" x1="197.1412" y1="42.965" x2="207.7538" y2="3.7307" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="al" x1="287.0942" y1="85.6124" x2="291.2139" y2="63.7514" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="am" x1="298.1402" y1="78.3336" x2="304.7729" y2="43.5513" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="an" x1="255.7576" y1="52.6114" x2="267.3349" y2="12.4123" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ao" x1="316.1777" y1="55.5171" x2="320.0369" y2="-2.7983" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ap" x1="393.1928" y1="115.4303" x2="392.3352" y2="76.4103" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="aq" x1="381.5101" y1="88.1381" x2="384.4044" y2="65.3051" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="ar" x1="376.8265" y1="43.3959" x2="377.7912" y2="7.3775" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="as" x1="822.7591" y1="6.7022" x2="791.0286" y2="130.6226" gradientTransform="matrix(1, 0, 0, -1, 0, 219.8104)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f7eb87"/>
+			<stop offset="1" stop-color="#e57834"/>
+		</linearGradient>
+		<linearGradient id="at" x1="728.9219" y1="47.1366" x2="728.9219" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="au" x1="641.7703" y1="47.1203" x2="641.7703" y2="89.5727" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="av" x1="554.1041" y1="47.1366" x2="554.1041" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="aw" x1="467.5314" y1="47.1366" x2="467.5314" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="ax" x1="111.9142" y1="47.1366" x2="111.9142" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="ay" x1="203.9541" y1="47.1366" x2="203.9541" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="az" x1="289.6264" y1="47.1366" x2="289.6264" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="ba" x1="376.6493" y1="47.1366" x2="376.6493" y2="89.5889" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="bb" x1="19.7795" y1="47.2485" x2="56.441" y2="134.7217" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#as"/>
+		<linearGradient id="bc" x1="300.8433" y1="51.2959" x2="329.2721" y2="51.2959" gradientTransform="matrix(1, 0, 0, -1, 0, 219.8104)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b9432d"/>
+			<stop offset="1" stop-color="#923724"/>
+		</linearGradient>
+		<linearGradient id="bd" x1="333.0414" y1="51.2959" x2="420.2573" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="be" x1="164.5268" y1="52.0677" x2="224.2144" y2="52.0677" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bf" x1="242.181" y1="52.0677" x2="270.6098" y2="52.0677" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bg" x1="55.5712" y1="52.0677" x2="123.7489" y2="52.0677" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bh" x1="153.927" y1="62.4873" x2="170.3367" y2="62.4873" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bi" x1="224.0124" y1="62.4873" x2="240.2207" y2="62.4873" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bj" x1="124.778" y1="62.4873" x2="150.1749" y2="62.4873" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bk" x1="23.7979" y1="58.7568" x2="53.8989" y2="58.7568" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bl" x1="3.9088" y1="81.2683" x2="36.1967" y2="81.2683" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bm" x1="529.3415" y1="51.2959" x2="588.1287" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bn" x1="606.1724" y1="51.2959" x2="634.6012" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bo" x1="664.962" y1="51.2959" x2="693.3908" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bp" x1="424.1164" y1="51.2959" x2="511.3323" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bq" x1="697.2129" y1="51.2959" x2="784.4288" y2="51.2959" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="br" x1="785.5865" y1="58.7568" x2="815.6876" y2="58.7568" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bs" x1="514.1094" y1="62.4873" x2="530.4897" y2="62.4873" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bt" x1="583.3173" y1="62.4873" x2="600.4069" y2="62.4873" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bu" x1="803.2734" y1="81.3969" x2="835.5658" y2="81.3969" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bc"/>
+		<linearGradient id="bv" x1="655.7381" y1="41.6006" x2="654.9484" y2="8.1672" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+		<linearGradient id="bw" x1="600.2063" y1="39.548" x2="598.1554" y2="10.4727" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#j"/>
+	</defs>

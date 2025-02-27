@@ -1,0 +1,11 @@
+<span style="cursor: default; ">默认光标</span>
+
+<span style="cursor: pointer; ">超链接的指针小手</span>
+
+<span style="cursor: wait; ">指程序正在忙沙漏</span>
+
+<span style="cursor: help; ">指示可用的帮助</span>
+
+<span style="cursor: text; ">指示文本</span>
+
+<span style="cursor: crosshair; ">十字状</span>
